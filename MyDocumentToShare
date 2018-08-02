@@ -1,2 +1,10 @@
-#This is my new document that I want to share
-##I want to try formating my file
+This is my new document that I want to share
+
+I want to try formating my file with lists
+- List 1
+- List 2
+- List 3
+
+I want to do a checklist 
+[] Check list one (not done)
+[x] Check list two (done)
