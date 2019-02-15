@@ -1,6 +1,8 @@
-% cat lib/hola.rb
 class Hola
-  def self.hi
-    puts "Hello world!"
+  def self.hi(language)
+    translator = Translator.new(language)
+    translator.hi
   end
 end
+
+require 'hola/translator'
