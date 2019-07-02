@@ -4,5 +4,4 @@ class Hola
     translator.hi
   end
 end
-
 require 'hola/translator'
